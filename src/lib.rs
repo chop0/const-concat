@@ -1,4 +1,5 @@
 #![feature(
+    const_fn_trait_bound,
     const_fn_union,
     untagged_unions,
     const_raw_ptr_deref
